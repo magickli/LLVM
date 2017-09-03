@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Fuzzer/FuzzerDefs.h
+cassert
+-
+cstddef
+-
+cstdint
+-
+cstring
+-
+string
+-
+vector
+-
+
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Fuzzer/FuzzerMain.cpp
+FuzzerDefs.h
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Fuzzer/FuzzerDefs.h
+

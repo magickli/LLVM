@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/projects/compiler-rt/lib/tsan/../sanitizer_common/sanitizer_asm.h
+
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/projects/compiler-rt/lib/tsan/rtl/tsan_rtl_aarch64.S
+sanitizer_common/sanitizer_asm.h
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/projects/compiler-rt/lib/tsan/rtl/sanitizer_common/sanitizer_asm.h
+
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/projects/compiler-rt/lib/tsan/rtl/tsan_rtl_amd64.S
+sanitizer_common/sanitizer_asm.h
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/projects/compiler-rt/lib/tsan/rtl/sanitizer_common/sanitizer_asm.h
+

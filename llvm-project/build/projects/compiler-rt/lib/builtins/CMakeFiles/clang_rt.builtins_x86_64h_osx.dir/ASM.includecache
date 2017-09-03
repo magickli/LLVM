@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/projects/compiler-rt/lib/builtins/assembly.h
+
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/projects/compiler-rt/lib/builtins/x86_64/chkstk.S
+../assembly.h
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/projects/compiler-rt/lib/builtins/assembly.h
+
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/projects/compiler-rt/lib/builtins/x86_64/chkstk2.S
+../assembly.h
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/projects/compiler-rt/lib/builtins/assembly.h
+
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/projects/compiler-rt/lib/builtins/x86_64/floatundidf.S
+../assembly.h
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/projects/compiler-rt/lib/builtins/assembly.h
+
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/projects/compiler-rt/lib/builtins/x86_64/floatundisf.S
+../assembly.h
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/projects/compiler-rt/lib/builtins/assembly.h
+
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/projects/compiler-rt/lib/builtins/x86_64/floatundixf.S
+../assembly.h
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/projects/compiler-rt/lib/builtins/assembly.h
+

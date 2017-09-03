@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/libtool -static -no_warning_for_no_symbols -o ../../../libLLVMMSP430Desc.a          CMakeFiles/LLVMMSP430Desc.dir/MSP430MCTargetDesc.cpp.o CMakeFiles/LLVMMSP430Desc.dir/MSP430MCAsmInfo.cpp.o 

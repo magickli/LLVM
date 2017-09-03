@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/libtool -static -no_warning_for_no_symbols -o ../../../libLLVMPowerPCAsmPrinter.a          CMakeFiles/LLVMPowerPCAsmPrinter.dir/PPCInstPrinter.cpp.o 

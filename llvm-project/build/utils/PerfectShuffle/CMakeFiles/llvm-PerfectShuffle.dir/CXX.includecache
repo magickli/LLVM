@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/utils/PerfectShuffle/PerfectShuffle.cpp
+cassert
+-
+cstdlib
+-
+iomanip
+-
+iostream
+-
+vector
+-
+

@@ -1,0 +1,115 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/AliasAnalysis.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/AliasAnalysis.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/AliasAnalysisEvaluator.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/AliasAnalysisEvaluator.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/AliasAnalysisSummary.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/AliasAnalysisSummary.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/AliasSetTracker.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/AliasSetTracker.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/Analysis.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/Analysis.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/AssumptionCache.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/AssumptionCache.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/BasicAliasAnalysis.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/BasicAliasAnalysis.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/BlockFrequencyInfo.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/BlockFrequencyInfo.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/BlockFrequencyInfoImpl.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/BlockFrequencyInfoImpl.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/BranchProbabilityInfo.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/BranchProbabilityInfo.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/CFG.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/CFG.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/CFGPrinter.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/CFGPrinter.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/CFLAndersAliasAnalysis.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/CFLAndersAliasAnalysis.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/CFLSteensAliasAnalysis.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/CFLSteensAliasAnalysis.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/CGSCCPassManager.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/CGSCCPassManager.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/CallGraph.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/CallGraph.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/CallGraphSCCPass.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/CallGraphSCCPass.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/CallPrinter.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/CallPrinter.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/CaptureTracking.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/CaptureTracking.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/CmpInstAnalysis.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/CmpInstAnalysis.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/CodeMetrics.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/CodeMetrics.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/ConstantFolding.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/ConstantFolding.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/CostModel.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/CostModel.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/Delinearization.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/Delinearization.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/DemandedBits.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/DemandedBits.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/DependenceAnalysis.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/DependenceAnalysis.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/DivergenceAnalysis.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/DivergenceAnalysis.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/DomPrinter.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/DomPrinter.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/DominanceFrontier.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/DominanceFrontier.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/EHPersonalities.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/EHPersonalities.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/GlobalsModRef.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/GlobalsModRef.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/IVUsers.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/IVUsers.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/IndirectCallPromotionAnalysis.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/IndirectCallPromotionAnalysis.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/InlineCost.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/InlineCost.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/InstCount.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/InstCount.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/InstructionSimplify.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/InstructionSimplify.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/Interval.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/Interval.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/IntervalPartition.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/IntervalPartition.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/IteratedDominanceFrontier.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/IteratedDominanceFrontier.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/LazyBlockFrequencyInfo.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/LazyBlockFrequencyInfo.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/LazyBranchProbabilityInfo.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/LazyBranchProbabilityInfo.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/LazyCallGraph.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/LazyCallGraph.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/LazyValueInfo.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/LazyValueInfo.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/Lint.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/Lint.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/Loads.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/Loads.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/LoopAccessAnalysis.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/LoopAccessAnalysis.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/LoopAnalysisManager.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/LoopAnalysisManager.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/LoopInfo.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/LoopInfo.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/LoopPass.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/LoopPass.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/LoopUnrollAnalyzer.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/LoopUnrollAnalyzer.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/MemDepPrinter.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/MemDepPrinter.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/MemDerefPrinter.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/MemDerefPrinter.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/MemoryBuiltins.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/MemoryBuiltins.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/MemoryDependenceAnalysis.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/MemoryDependenceAnalysis.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/MemoryLocation.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/MemoryLocation.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/MemorySSA.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/MemorySSA.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/MemorySSAUpdater.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/MemorySSAUpdater.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/ModuleDebugInfoPrinter.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/ModuleDebugInfoPrinter.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/ModuleSummaryAnalysis.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/ModuleSummaryAnalysis.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/ObjCARCAliasAnalysis.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/ObjCARCAliasAnalysis.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/ObjCARCAnalysisUtils.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/ObjCARCAnalysisUtils.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/ObjCARCInstKind.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/ObjCARCInstKind.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/OptimizationDiagnosticInfo.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/OptimizationDiagnosticInfo.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/OrderedBasicBlock.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/OrderedBasicBlock.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/PHITransAddr.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/PHITransAddr.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/PostDominators.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/PostDominators.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/ProfileSummaryInfo.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/ProfileSummaryInfo.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/PtrUseVisitor.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/PtrUseVisitor.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/RegionInfo.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/RegionInfo.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/RegionPass.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/RegionPass.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/RegionPrinter.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/RegionPrinter.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/ScalarEvolution.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/ScalarEvolution.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/ScalarEvolutionAliasAnalysis.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/ScalarEvolutionAliasAnalysis.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/ScalarEvolutionExpander.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/ScalarEvolutionExpander.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/ScalarEvolutionNormalization.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/ScalarEvolutionNormalization.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/ScopedNoAliasAA.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/ScopedNoAliasAA.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/SparsePropagation.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/SparsePropagation.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/TargetLibraryInfo.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/TargetLibraryInfo.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/TargetTransformInfo.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/TargetTransformInfo.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/Trace.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/Trace.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/TypeBasedAliasAnalysis.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/TypeBasedAliasAnalysis.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/TypeMetadataUtils.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/TypeMetadataUtils.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/ValueTracking.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/ValueTracking.cpp.o"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis/VectorUtils.cpp" "/Users/magickli/Documents/github/LLVM/llvm-project/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/VectorUtils.cpp.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "AppleClang")
+
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_CXX
+  "GTEST_HAS_RTTI=0"
+  "__STDC_CONSTANT_MACROS"
+  "__STDC_FORMAT_MACROS"
+  "__STDC_LIMIT_MACROS"
+  )
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "lib/Analysis"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Analysis"
+  "include"
+  "/Users/magickli/Documents/github/llvm/llvm-project/llvm/include"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

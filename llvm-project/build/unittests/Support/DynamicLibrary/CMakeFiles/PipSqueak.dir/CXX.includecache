@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/unittests/Support/DynamicLibrary/ExportedFuncs.cxx
+PipSqueak.h
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/unittests/Support/DynamicLibrary/PipSqueak.h
+
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/unittests/Support/DynamicLibrary/PipSqueak.cxx
+PipSqueak.h
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/unittests/Support/DynamicLibrary/PipSqueak.h
+ExportedFuncs.cxx
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/unittests/Support/DynamicLibrary/ExportedFuncs.cxx
+
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/unittests/Support/DynamicLibrary/PipSqueak.h
+string
+-
+vector
+-
+string
+-
+vector
+-
+

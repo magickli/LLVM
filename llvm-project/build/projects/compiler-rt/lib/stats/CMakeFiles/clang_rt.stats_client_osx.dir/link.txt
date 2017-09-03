@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/libtool -static -no_warning_for_no_symbols -o ../../../../lib/clang/6.0.0/lib/darwin/libclang_rt.stats_client_osx.a          CMakeFiles/clang_rt.stats_client_osx.dir/stats_client.cc.o 

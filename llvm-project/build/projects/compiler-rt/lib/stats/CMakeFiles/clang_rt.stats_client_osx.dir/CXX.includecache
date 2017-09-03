@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/projects/compiler-rt/lib/stats/../sanitizer_common/sanitizer_internal_defs.h
+sanitizer_platform.h
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/projects/compiler-rt/lib/stats/../sanitizer_common/sanitizer_platform.h
+sanitizer_win_defs.h
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/projects/compiler-rt/lib/stats/../sanitizer_common/sanitizer_win_defs.h
+
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/projects/compiler-rt/lib/stats/../sanitizer_common/sanitizer_platform.h
+TargetConditionals.h
+-
+
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/projects/compiler-rt/lib/stats/../sanitizer_common/sanitizer_win_defs.h
+sanitizer_platform.h
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/projects/compiler-rt/lib/stats/../sanitizer_common/sanitizer_platform.h
+
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/projects/compiler-rt/lib/stats/../stats/stats.h
+sanitizer_common/sanitizer_internal_defs.h
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/projects/compiler-rt/lib/stats/../stats/sanitizer_common/sanitizer_internal_defs.h
+
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/projects/compiler-rt/lib/stats/stats_client.cc
+windows.h
+-
+dlfcn.h
+-
+stdint.h
+-
+stdio.h
+-
+sanitizer_common/sanitizer_internal_defs.h
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/projects/compiler-rt/lib/stats/sanitizer_common/sanitizer_internal_defs.h
+stats/stats.h
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/projects/compiler-rt/lib/stats/stats/stats.h
+

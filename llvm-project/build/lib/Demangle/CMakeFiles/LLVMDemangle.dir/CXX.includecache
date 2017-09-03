@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/include/llvm/Demangle/Demangle.h
+cstddef
+-
+
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Demangle/ItaniumDemangle.cpp
+llvm/Demangle/Demangle.h
+/Users/magickli/Documents/github/llvm/llvm-project/llvm/lib/Demangle/llvm/Demangle/Demangle.h
+algorithm
+-
+cctype
+-
+cstdlib
+-
+cstring
+-
+numeric
+-
+string
+-
+vector
+-
+
